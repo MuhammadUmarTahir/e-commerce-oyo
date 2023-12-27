@@ -1,19 +1,19 @@
 const Header2 = () => {
     const List = [
       {
-        name: "Banglore",
+        name: "karachi",
       },
       {
-        name: "Culcutta",
+        name: "Lahore",
       },
       {
-        name: "Mumbai",
+        name: "Islamabad",
       },
       {
-        name: "Delhi",
+        name: "Quetta",
       },
       {
-        name: "Hyderabad",
+        name: "Peshawar",
       },
     ];
     return (

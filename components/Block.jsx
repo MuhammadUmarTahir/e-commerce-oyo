@@ -17,7 +17,7 @@ const Block = ({title , para}) => {
         </p>
       </div>
       <h3
-              className=" font-bold cursor-pointer">Login/Signup</h3>
+              className=" font-bold cursor-pointer"></h3>
     </div>
   );
 };
